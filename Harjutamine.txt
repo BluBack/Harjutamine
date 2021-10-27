@@ -1,2 +1,3 @@
 GitHUb on versioonihaldustarkvara, mida kasutavad õpilased ja programmeerijad.
 
+GitHub loodi ja võeti kasutusele aastal 2008.
