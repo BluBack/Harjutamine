@@ -1,2 +1,2 @@
-See on harjutamise fail.
- 
+GitHUb on versioonihaldustarkvara, mida kasutavad õpilased ja programmeerijad.
+Saan GitHubi kasutada oma õpingutes.
